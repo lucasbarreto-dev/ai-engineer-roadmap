@@ -26,11 +26,11 @@ O RAG resolve o problema das alucinações e da falta de dados privados das LLMs
 
 ### Ferramentas de Mercado para RAG & Orquestração:
 * **[LangChain](https://www.langchain.com/):** O framework mais famoso para encadear componentes de IA.
-* **LlamaIndex:** Framework excelente e altamente focado em ingestão e indexação de dados privados para RAG.
+* **[LlamaIndex](https://www.llamaindex.ai/):** Framework excelente e altamente focado em ingestão e indexação de dados privados para RAG.
 * **Bancos de Dados Vetoriais:**
-  * `Pinecone`: Banco vetorial 100% gerenciado em nuvem de baixa latência.
-  * `Weaviate`: Banco open-source robusto focado em escala e busca semântica.
-  * `FAISS` (Meta AI): Biblioteca open-source ultraeficiente para busca de similaridade local em larga escala.
+  * [`Pinecone`](https://www.pinecone.io/): Banco vetorial 100% gerenciado em nuvem de baixa latência.
+  * [`Weaviate`](https://weaviate.io/): Banco open-source robusto focado em escala e busca semântica.
+  * [`FAISS`](https://ai.meta.com/tools/faiss/) (Meta AI): Biblioteca open-source ultraeficiente para busca de similaridade local em larga escala.
 
 ---
 
