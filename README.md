@@ -25,7 +25,6 @@ Escolha um dos módulos abaixo para acessar as notas detalhadas, definições te
 | **01** | **Fundamentos de Modelos:** ML, Deep Learning, LLMs, Tokens e Prompt Engineering. | [Acessar Módulo 1](./01-fundamentos-modelos.md) |
 | **02** | **IA no Mundo Real:** Python para IA, APIs Generativas, RAG (obrigatório) e o protocolo MCP. | [Acessar Módulo 2](./02-ia-mundo-real.md) |
 | **02b**| **Lab Prático:** Hello World integrando LangChain, Gemini e Docker. | [Acessar Lab](./02b-lab-langchain-docker.md) |
-
 | **03** | **Autonomia & Agentes:** Loops de pensamento/ação, ferramentas (Tools) e sistemas multiagentes. | [Acessar Módulo 3](./03-autonomia-agentes.md) |
 | **04** | **Ambiente de Produção:** DevOps, Observabilidade, segurança, avaliação (Evals) e governança. | [Acessar Módulo 4](./04-ambiente-producao.md) |
 
