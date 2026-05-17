@@ -28,9 +28,9 @@ O RAG resolve o problema das alucinações e da falta de dados privados das LLMs
 * **[LangChain](https://www.langchain.com/):** O framework mais famoso para encadear componentes de IA.
 * **[LlamaIndex](https://www.llamaindex.ai/):** Framework excelente e altamente focado em ingestão e indexação de dados privados para RAG.
 * **Bancos de Dados Vetoriais:**
-  * [`Pinecone`](https://www.pinecone.io/): Banco vetorial 100% gerenciado em nuvem de baixa latência.
-  * [`Weaviate`](https://weaviate.io/): Banco open-source robusto focado em escala e busca semântica.
-  * [`FAISS`](https://ai.meta.com/tools/faiss/) (Meta AI): Biblioteca open-source ultraeficiente para busca de similaridade local em larga escala.
+  * [Pinecone](https://www.pinecone.io/): Banco vetorial 100% gerenciado em nuvem de baixa latência.
+  * [Weaviate](https://weaviate.io/): Banco open-source robusto focado em escala e busca semântica.
+  * [FAISS (Meta AI)](https://ai.meta.com/tools/faiss/): Biblioteca open-source ultraeficiente para busca de similaridade local em larga escala.
 
 ---
 
