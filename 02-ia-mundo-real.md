@@ -25,7 +25,7 @@ O RAG resolve o problema das alucinações e da falta de dados privados das LLMs
 6. **Hybrid Search:** Combinar a busca semântica (por significado) com a busca clássica por palavras-chave (*Keyword Search*) para resultados perfeitos.
 
 ### Ferramentas de Mercado para RAG & Orquestração:
-* **LangChain]:** O framework mais famoso para encadear componentes de IA.
+* **[LangChain](https://www.langchain.com/):** O framework mais famoso para encadear componentes de IA.
 * **LlamaIndex:** Framework excelente e altamente focado em ingestão e indexação de dados privados para RAG.
 * **Bancos de Dados Vetoriais:**
   * `Pinecone`: Banco vetorial 100% gerenciado em nuvem de baixa latência.
@@ -62,4 +62,4 @@ Para construir aplicações modernas de IA no mundo real, você deve dominar ess
 
 ### Referências
 - [Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://www.youtube.com/watch?v=sVcwVQRHIc8)
-- [Hello Langchain]()
+- [Hello Langchain](02b-lab-langchain-docker.md)
