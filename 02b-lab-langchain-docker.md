@@ -99,14 +99,3 @@ docker run --rm -it \
 ```
 
 ---
-
-### 🔗 Atualização sugerida no seu `README.md` principal:
-Para que esse arquivo novo não fique perdido, adicione uma linha para ele na tabela do seu **índice** no `README.md`:
-
-```markdown
-| Módulo | Descrição do Conteúdo | Link para a Nota |
-| :---: | :--- | :--- |
-| **02** | **IA no Mundo Real:** Python para IA, APIs Generativas, RAG e o protocolo MCP. | [Acessar Módulo 2](./02-ia-mundo-real.md) |
-| **02b**| **Lab Prático:** Hello World integrando LangChain, Gemini e Docker. | [Acessar Lab](./02b-lab-langchain-docker.md) |
-
-```
