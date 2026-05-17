@@ -42,16 +42,16 @@ Construir esses projetos valida seu conhecimento prático para o mercado:
 ## 📚 Hub de Cursos e Referências Gratuitas
 
 ### Plataformas Recomendadas
-1. **Google Cloud Skills Boost:** *Introduction to Generative AI Learning Path* (Conceitos básicos e IA responsável com direito a badges).
-2. **Microsoft Learn + LinkedIn:** *Career Essentials in Generative AI* (Trilha profissional com certificado gratuito).
-3. **DeepLearning.AI (Short Courses):** Cursos práticos e rápidos (1-2h) criados por Andrew Ng focados em Prompt Engineering, Agentes e frameworks.
-4. **AWS Training:** Cursos de Machine Learning e foco prático no serviço *Amazon Bedrock*.
-5. **IBM SkillsBuild:** Cursos gratuitos focados em Ética, Fundamentos de IA e Chatbots com badges digitais.
-6. **Zapier University:** Focado na conexão prática de LLMs com ecossistemas de e-mails, planilhas e CRMs.
+1. **[Anthropic Skilljar (Cursos Oficiais)](https://anthropic.skilljar.com):**
+2. **[Google Cloud Skills Boost](https://www.skills.google/paths/118/course_templates/536):** *Introduction to Generative AI Learning Path* (Conceitos básicos e IA responsável com direito a badges).
+3. **Microsoft Learn + LinkedIn:** *Career Essentials in Generative AI* (Trilha profissional com certificado gratuito).
+4. **DeepLearning.AI (Short Courses):** Cursos práticos e rápidos (1-2h) criados por Andrew Ng focados em Prompt Engineering, Agentes e frameworks.
+5. **AWS Training:** Cursos de Machine Learning e foco prático no serviço *Amazon Bedrock*.
+6. **IBM SkillsBuild:** Cursos gratuitos focados em Ética, Fundamentos de IA e Chatbots com badges digitais.
+7. **Zapier University:** Focado na conexão prática de LLMs com ecossistemas de e-mails, planilhas e CRMs.
 
 ### Links & Arquivos
 * 🗺️ [AI Engineer Roadmap (Roadmap.sh)](https://roadmap.sh/ai-engineer)
 * 🤖 [AI Agents Roadmap (Roadmap.sh)](https://roadmap.sh/ai-agents)
-* 🎓 [Anthropic Skilljar (Cursos Oficiais)](https://anthropic.skilljar.com)
 * 📝 [Data Science Academy - Post de Referência](https://www.linkedin.com/feed/update/urn:li:activity:7451438461900795904/)
 
