@@ -54,3 +54,4 @@ Construir esses projetos valida seu conhecimento prático para o mercado:
 * 🤖 [AI Agents Roadmap (Roadmap.sh)](https://roadmap.sh/ai-agents)
 * 🎓 [Anthropic Skilljar (Cursos Oficiais)](https://anthropic.skilljar.com)
 * 📝 [Data Science Academy - Post de Referência](https://www.linkedin.com/feed/update/urn:li:activity:7451438461900795904/)
+
