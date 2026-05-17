@@ -42,7 +42,7 @@ Construir esses projetos valida seu conhecimento prático para o mercado:
 ## 📚 Hub de Cursos e Referências Gratuitas
 
 ### Plataformas Recomendadas
-1. **[Anthropic Skilljar (Cursos Oficiais)](https://anthropic.skilljar.com):**
+1. **[Anthropic Skilljar (Cursos Oficiais)](https://anthropic.skilljar.com):** Treinamentos e guias práticos desenvolvidos diretamente pelo time do Claude, focados em engenharia de prompt avançada e uso de APIs da Anthropic.
 2. **[Google Cloud Skills Boost](https://www.skills.google/paths/118/course_templates/536):** *Introduction to Generative AI Learning Path* (Conceitos básicos e IA responsável com direito a badges).
 3. **Microsoft Learn + LinkedIn:** *Career Essentials in Generative AI* (Trilha profissional com certificado gratuito).
 4. **DeepLearning.AI (Short Courses):** Cursos práticos e rápidos (1-2h) criados por Andrew Ng focados em Prompt Engineering, Agentes e frameworks.
