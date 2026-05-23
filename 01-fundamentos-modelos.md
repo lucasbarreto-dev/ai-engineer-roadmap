@@ -35,6 +35,20 @@ O foco aqui é puramente conceitual: entender a evolução até o surgimento das
 * **RNN (Recurrent Neural Networks):** Criadas para processar dados em **sequência** (como séries temporais ou textos antigos).
 * **Transformers:** A arquitetura revolucionária baseada em mecanismos de atenção que permitiu o nascimento das LLMs modernas por processar contextos de texto massivos de forma paralela.
 
+### 📚 Leitura Recomendada de Fundamentos: Álgebra Linear para Deep Learning
+Para entender a matemática por trás de tensores e transformações de matrizes sem se perder em fórmulas teóricas puras, utilize este guia visual e prático baseado no clássico *The Deep Learning Book (MIT Press)*:
+
+* 🌐 [Hadrien Jean - Deep Learning Book Series (Notebooks & Artigos)](https://github.com/hadrienj/deepLearningBook-Notes/tree/master)
+
+O conteúdo aborda os pilares de álgebra linear aplicados com Python/Numpy através de códigos experimentais e representações gráficas:
+
+1. **Escalares, Vetores, Matrizes e Tensores:** Introdução prática a broadcasting e manipulação de arrays multidimensionais.
+2. **Multiplicação de Matrizes:** O funcionamento matemático do Produto Escalar (*Dot Product*), base das operações em camadas de redes neurais.
+3. **Sistemas e Inversão:** Matrizes Identidade e Inversas aplicadas na resolução de sistemas lineares.
+4. **Dependência Linear e Espaço Gerado (*Span*):** Análise de sistemas sobredeterminados e combinações lineares.
+5. **Normas ($L^0, L^1, L^2$):** Funções de cálculo de magnitude vetorial, cruciais para avaliar funções de perda (*loss functions*) em modelos.
+6. **Matrizes Especiais:** Estruturas diagonais, simétricas e ortogonais.
+7. **Decomposições Avançadas:** Mapeamento de autovetores/autovalores (*Eigendecomposition*) e Decomposição em Valores Singulares (*SVD*), fundamentais para entender reduções de dimensionalidade (como PCA) e transformações de espaço geométrico em IA.
 ---
 
 ## 🔤 Grandes Modelos de Linguagem (LLMs)
