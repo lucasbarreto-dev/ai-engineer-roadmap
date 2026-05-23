@@ -91,3 +91,4 @@ A arte e técnica de estruturar instruções para obter saídas de alta qualidad
 ### Referências
 - [Python, IA/ML e Machine Learning](https://app.betrybe.com/learn/course/0995cbf2-7fd1-4155-927d-958efe79524d/module/ac04eb08-6c0a-4609-b2e7-13449ea1c881/section/baa5ba25-2ed9-4f57-bdec-f151cefd9891/lesson/499cca74-a194-492f-9bd5-ce859ffbdda5)
 - [Python, IA/ML e Machine Learning | Gravação](https://app.betrybe.com/learn/course/0995cbf2-7fd1-4155-927d-958efe79524d/module/c555c69e-6a46-46a6-94e7-052bae0aa33c/section/cddc92b2-e192-4186-afae-f2a970513abb/lesson/80ddf7a3-40de-436e-b597-df6acf849c36)
+- [How AI Turns Words Into Vectors: Embeddings - Blackboard AI](https://www.youtube.com/watch?v=lPTcTh5sRug)
