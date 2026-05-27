@@ -11,6 +11,15 @@ Desenvolvedores de IA não criam modelos do zero; eles consomem modelos consolid
 
 ---
 
+* **Engenharia de Produção básica:** Controle estrito de custos (contagem de tokens enviados/recebidos) e tratamento de erros de limites de requisições (*Rate Limiting*).
+
+🔗 **Referência de Ecossistema:**
+* [Data Science Academy - Insights de Mercado e IA](https://www.linkedin.com/feed/update/urn:li:activity:7451438461900795904/)
+
+---
+
+## 📚 RAG (Retrieval-Augmented Generation)
+
 ## 📚 RAG (Retrieval-Augmented Generation)
 > 🚨 **Conceito Obrigatório:** O mercado parou de criar apenas "Wrappers de ChatGPT" (sistemas que só repassam o prompt do usuário) e passou a exigir **Sistemas de IA com memória de negócio corporativa**.
 

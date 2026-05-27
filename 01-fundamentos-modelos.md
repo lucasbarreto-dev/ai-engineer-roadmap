@@ -53,6 +53,9 @@ O conteúdo aborda os pilares de álgebra linear aplicados com Python/Numpy atra
 
 ## 🔤 Grandes Modelos de Linguagem (LLMs)
 
+### Formatos de Estruturação
+* **Formatos comuns de manipulação:** Toon e JSON.
+
 ### O que é um LLM?
 **Large Language Model** (Grande Modelo de Linguagem) é um tipo de IA generativa treinada com volumes gigantescos de dados para compreender, processar e gerar texto em linguagem humana de forma contextual.
 
